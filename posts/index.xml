@@ -6,7 +6,16 @@
     <description>Recent content in Posts on XiaoKui&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 19 Aug 2023 08:20:32 +0630</lastBuildDate><atom:link href="https://arisskz6.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Aug 2023 08:48:01 +0630</lastBuildDate><atom:link href="https://arisskz6.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo博客搭建</title>
+      <link>https://arisskz6.github.io/2023/08/19/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</link>
+      <pubDate>Sat, 19 Aug 2023 08:48:01 +0630</pubDate>
+      
+      <guid>https://arisskz6.github.io/2023/08/19/hugo%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/</guid>
+      <description>写博客 写博客和记日记、写总结很重要 能够帮助我们理清思路 博客也能够帮助到其他人. 看了这位作者的文章《记笔记与写博客》，更激发了自己写博客的想法</description>
+    </item>
+    
     <item>
       <title>Hello World</title>
       <link>https://arisskz6.github.io/2023/08/19/my-first-post/</link>
