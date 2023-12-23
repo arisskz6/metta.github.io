@@ -4,7 +4,7 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Dec 2023 03:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 03:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
@@ -742,108 +742,7 @@ dhammaṃ</p>
             <title><![CDATA[Abhidhamma 89citta 阿毗达摩89心]]></title>
             <guid>5c287e7bc2284698bb3b7d1657c8931e</guid>
             <pubDate>Sun, 17 Dec 2023 09:33:09 GMT</pubDate>
-            <content:encoded><![CDATA[<style class="jop-noMdConv">
-	.mermaid {width:200% !important}
-</style>
-
-				<div>
-					
-					<pre class="mermaid">graph LR
-Abhidhamma --&gt; 89心[&lt;b&gt;Citta - 89&lt;/b&gt;&lt;br&gt;consciousnes - 89&lt;br&gt;心 - 89]
-
-
-89心 --&gt; 81世间心[&lt;b&gt;Lokiyacitta - 81&lt;b&gt;&lt;br&gt;mundane consciousness - 81&lt;br&gt;世间心 - 81]
- 
-89心 --&gt; 8出世间心[&lt;b&gt;Lokuttaracittāni - 8&lt;/b&gt;  &lt;br&gt;supramundane  consciousness - 8&lt;br&gt;出世间心 - 8]
-
-
-81世间心 --&gt; 54欲界心[&lt;b&gt;kāmāvacaracittāni - 54&lt;/b&gt;&lt;br&gt;sense-sphere consciousness - 54&lt;br&gt;欲界心 - 54]
- 
-81世间心 --&gt; 15色界心[&lt;b&gt;rūpāvacaracittāni - 15&lt;/b&gt;&lt;br&gt;fine-material-sphere consciousness - 15&lt;br&gt;色界心 - 15]
-
-81世间心 --&gt; 12无色界心[&lt;b&gt;arūpāvacaracittāni - 12&lt;/b&gt;&lt;br&gt;immaterial-sphere consciousness - 12&lt;br&gt;无色界心 - 12]
-
-
-54欲界心 --&gt; 24欲界美心[&lt;b&gt;kāmāvacara-sobhanacittāni - 24&lt;/b&gt;&lt;br&gt;sense-sphere beautiful consciousness - 24&lt;br&gt;欲界美心 - 24]
- 
-54欲界心 --&gt; 18无因心[&lt;b&gt;ahetukacittāni - 18 &lt;/b&gt;&lt;br&gt;rootless consciousness - 18&lt;br&gt;无因心 - 18]
- 
-54欲界心 --&gt; 12不善心[&lt;b&gt;akusalacittāni - 12&lt;/b&gt;&lt;br&gt;unwholesome consciousness - 12&lt;br&gt;不善心 - 12]
-
-
-24欲界美心 --&gt; 8欲界善心[&lt;b&gt;kāmāvacara-kusalacittāni - 8&lt;/b&gt;&lt;br&gt;sense-sphere wholesome consciousness - 8&lt;br&gt;欲界善心 - 8]
-
-24欲界美心 --&gt; 8欲界果报心[&lt;b&gt;kāmāvacara-vipākacittāni - 8&lt;/b&gt;&lt;br&gt;sense-sphere resultant consciousness - 8&lt;br&gt;欲界果报心 - 8]
-
-24欲界美心 --&gt; 8欲界唯作心[&lt;b&gt;kāmāvacara-kriyācittāni - 8&lt;/b&gt;&lt;br&gt;sense-sphere functional consciousness - 8&lt;br&gt;欲界唯作心 - 8]
-
-
-8欲界善心 --&gt; 1.悦俱智相应无行一心[&lt;b&gt;1.Somanassasahagataṃ ñāṇasampayuttaṃ asankhārikam ekaṃ&lt;/b&gt;&lt;br&gt;1.One consiousness,accompanied by joy, associated with knowledge, unprompted&lt;br&gt;1.悦俱智相应无行一心]
-
-8欲界善心 --&gt; 2.悦俱智相应有行一心[&lt;b&gt;2.Somanassasahagataṃ ñāṇasampayuttaṃ sasankhārikam ekaṃ.&lt;/b&gt;&lt;br&gt;2.One consciousness, accompanied by joy, associated with knowledge, prompted&lt;br&gt;2.悦俱智相应有行一心]
-
-8欲界善心 --&gt; 3.悦俱智不相应无行一心[&lt;b&gt;3.Somanassasahagataṃ ñāṇavippayuttaṃ asankhārikam ekaṃ&lt;/b&gt;&lt;br&gt;3.One consciousness, accompanied by joy, dissociated from knowledge, unprompted&lt;br&gt;3.悦俱智不相应无行一心]
-
-8欲界善心 --&gt; 4.悦俱智不相应有行一心[&lt;b&gt;4.Somanassasahagataṃ ñāṇavippayuttaṃ sasankhārikam ekaṃ&lt;/b&gt;&lt;br&gt;4.One consciousness, accompanied by joy, associated with knowledge, prompted&lt;br&gt;4.悦俱智不相应有行一心]
-
-
-8欲界善心 --&gt; 5.舍俱智相应无行一心[&lt;b&gt;5.Upekkhāsahagataṃ ñāṇasampayuttaṃ asankhārikam ekaṃ&lt;/b&gt;&lt;br&gt;5.One consciousness, accompanied by equanimity, associated with knowledge, unprompted&lt;br&gt;5.舍俱智相应无行一心]
-
-8欲界善心 --&gt; 6.舍俱智相应无行一心[&lt;b&gt;6.Upekkhāsahagataṃ ñāṇasampayuttaṃ sasankhārikam ekaṃ&lt;/b&gt;&lt;br&gt;6.One consciousness, accompanied by equanimity, associated with knowledge, prompted&lt;br&gt;6.舍俱智相应有行一心]
-
-8欲界善心 --&gt; 7.舍俱智不相应无行一心[&lt;b&gt;7.Upekkhāsahagataṃ ñāṇavippayuttaṃ asankhārikam ekaṃ&lt;/b&gt;&lt;br&gt;7.One consciousness, accompanied by equanimity, dissociated from knowledge, unprompted&lt;br&gt;7.舍俱智不相应无行一心]
-
-8欲界善心 --&gt; 8.舍俱智不相应有行一心[&lt;b&gt;8.Upekkhāsahagataṃ ñāṇavippayuttaṃ sasankhārikam ekaṃ&lt;/b&gt;&lt;br&gt;8.One consciousness, accompanied by equanimity, dissociated from knowledge, prompted&lt;br&gt;8.舍俱智不相应有行一心]
-
-
-18无因心 --&gt; 8无因善果报心[&lt;b&gt;kusalavipāka-ahetukacittāni&lt;/b&gt;&lt;br&gt;wholesome-resultant rootless consciousness&lt;br&gt;无因善果报心]
-
-18无因心 --&gt; 7无因不善果报心[&lt;b&gt;akusalavipākacittāni&lt;/b&gt;&lt;br&gt;unwholesome-resultant consciousness&lt;br&gt;无因不善果报心]
-
-18无因心 --&gt; 3无因唯作心[&lt;b&gt;ahetukakiriya-cittāni&lt;/b&gt;&lt;br&gt;unwholesome-resultant consciousness&lt;br&gt;无因唯作心]
-
-12不善心 --&gt; 8贪根心[&lt;b&gt;lobhamūlacittāni - 8&lt;/b&gt;&lt;br&gt;consciousness rooted in greed - 8&lt;br&gt;贪根心 - 8]
-12不善心 --&gt; 2嗔根心[&lt;b&gt;dosamūlacittāni - 2&lt;/b&gt;consciousness rooted in hatred - 2&lt;br&gt;嗔根心 - 2]
-12不善心 --&gt; 2痴根心[mohamūlacittāni - 2&lt;br&gt;consciousness rooted in delusion&lt;br&gt;痴根心]
-
-15色界心 --&gt; 5色界善心[&lt;b&gt;rūpāvacara-kusalacittāni - 5&lt;/b&gt;&lt;br&gt;fine-material-sphere wholesome consciousness - 5&lt;br&gt;色界善心 - 5]
- 
-15色界心 --&gt; 5色界果报心[&lt;b&gt;rūpāvacara-vipākacittāni - 5&lt;/b&gt;&lt;br&gt;fine-material-sphere resultant consciousness - 5&lt;br&gt;色界果报心 - 5]
- 
-15色界心 --&gt; 5色界唯作心[&lt;b&gt;rūpāvacara-kriyācittāni - 5&lt;/b&gt;&lt;br&gt;fine-material-sphere resultant consciousness - 5&lt;br&gt;色界唯作心 - 5]
-
-
-12无色界心 --&gt; 4无色界善心[&lt;b&gt;arūpāvacaracittāni - 4&lt;/b&gt;&lt;br&gt;immaterial-sphere wholesome consciousness- 4&lt;br&gt;无色界善心 - 4]
- 
-12无色界心 --&gt; 4无色界果报心[&lt;b&gt;arūpāvacara-vipākacittāni - 4&lt;/b&gt;&lt;br&gt;immaterial-sphere resultant consciousness - 4&lt;br&gt;无色界果报心 - 4]
- 
-12无色界心 --&gt; 4无色界唯作心[&lt;b&gt;arūpāvacara-kriyācittāni - 4&lt;/b&gt;&lt;br&gt;immaterial-sphere functional consciousness - 4&lt;br&gt;无色界唯作心 - 4]
-
-
-8出世间心 --&gt; 4出世间善心[&lt;b&gt;lokuttara-kusalacittāni - 4&lt;/b&gt;&lt;br&gt;supramundane wholesome consciousness - 4&lt;br&gt;出世间善心 - 4]
-
-8出世间心 --&gt; 4出世间果心[&lt;b&gt;Lokuttara-vipākacittāni - 4&lt;/b&gt;&lt;br&gt;supramundane resultant consciousness - 4&lt;br&gt;出世间果心 - 4]
-
-
-4出世间善心 --&gt; 入流道心[&lt;b&gt;Sotāpatti-maggacittaṃ&lt;/b&gt;&lt;br&gt;path consciousness of stream-entry&lt;br&gt;入流道心]
- 
-4出世间善心 --&gt; 一来道心[&lt;b&gt;Sakadāgāmi-maggacittaṃ&lt;/b&gt;&lt;br&gt;path consciousness of once-returning&lt;br&gt;一来道心]
-
-4出世间善心 --&gt; 不还道心[&lt;b&gt;Anāgāmi-maggacittaṃ&lt;/b&gt;&lt;br&gt;path consciousness of non-returning&lt;br&gt;不还道心]
- 
-4出世间善心 --&gt; 阿拉汉道心[&lt;b&gt;Arahatta-maggacittañ cā ti&lt;/b&gt;&lt;br&gt;path consciousness of arahantship&lt;br&gt;阿拉汉道心]
-
-
-4出世间果心 --&gt; 入流果心[&lt;b&gt;Sotāpatti-phalacittaṃ&lt;/b&gt;&lt;br&gt;fruition consciousness of stream-entry&lt;br&gt;入流果心]
- 
-4出世间果心 --&gt; 一来果心[&lt;b&gt;Sakadāgāmi-phalacittaṃ&lt;/b&gt;&lt;br&gt;fruition consciousness of once-returning&lt;br&gt;一来果心]
- 
-4出世间果心 --&gt; 不还果心[&lt;b&gt;Anāgāmi-phalacittaṃ&lt;/b&gt;&lt;br&gt;fruition consciousness of non-returning&lt;br&gt;不还果心]
- 
-4出世间果心 --&gt; 阿拉汉果心[&lt;b&gt;Arahatta-phalacittañ cā ti&lt;/b&gt;&lt;br&gt;fruition-consciousness of Arahantship&lt;br&gt;阿拉汉果心]
-</pre>
-				</div>
-			<nav class="table-of-contents"><ul><li><a href="#89-citta-consciousness-心">89 Citta (consciousness 心)</a><ul><li><a href="#lokuttara">Lokuttara</a></li><li><a href="#lokuttara-kusalacittāni-4">lokuttara-kusalacittāni - 4</a></li><li><a href="#lokuttara-vipākacittāni-4">lokuttara-vipākacittāni - 4</a></li><li><a href="#lokiyacitta-81">Lokiyacitta - 81</a><ul><li><a href="#kāmāvacaracittāni-54">kāmāvacaracittāni - 54</a><ul><li><a href="#akusalacittāni-12">akusalacittāni - 12</a><ul><li><a href="#lobhamūlacittāni-8">lobhamūlacittāni - 8</a></li><li><a href="#dosamūlacittāni-2">dosamūlacittāni - 2</a></li><li><a href="#mohamūlacittāni-2">mohamūlacittāni - 2</a></li></ul></li></ul></li></ul></li></ul></li></ul></nav><h1 id="89-citta-consciousness-心">89 Citta (consciousness 心)</h1>
+            <content:encoded><![CDATA[<nav class="table-of-contents"><ul><li><a href="#89-citta-consciousness-心">89 Citta (consciousness 心)</a><ul><li><a href="#lokuttara">Lokuttara</a></li><li><a href="#lokuttara-kusalacittāni-4">lokuttara-kusalacittāni - 4</a></li><li><a href="#lokuttara-vipākacittāni-4">lokuttara-vipākacittāni - 4</a></li><li><a href="#lokiyacitta-81">Lokiyacitta - 81</a><ul><li><a href="#kāmāvacaracittāni-54">kāmāvacaracittāni - 54</a><ul><li><a href="#akusalacittāni-12">akusalacittāni - 12</a><ul><li><a href="#lobhamūlacittāni-8">lobhamūlacittāni - 8</a></li><li><a href="#dosamūlacittāni-2">dosamūlacittāni - 2</a></li><li><a href="#mohamūlacittāni-2">mohamūlacittāni - 2</a></li></ul></li></ul></li></ul></li></ul></li></ul></nav><h1 id="89-citta-consciousness-心">89 Citta (consciousness 心)</h1>
 <h2 id="lokuttara">Lokuttara</h2>
 <p>Supramundane<br />
 出世间</p>
