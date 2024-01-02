@@ -4,7 +4,7 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 08:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 14:33:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
@@ -704,6 +704,42 @@
 <p>1.Monks made an attempt to attain Arhatship.<br />
 1.僧侣们试图证得阿拉汉果。<br />
 <strong>1.Bhikkhū arahattaṃ pāpunituṃ viriyaṃ ārabhiṃsu.</strong></p>
+<table>
+<thead>
+<tr>
+<th>Pāḷi</th>
+<th>English</th>
+<th>中文</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Bhikkhū</strong></td>
+<td>monk</td>
+<td>僧人</td>
+</tr>
+<tr>
+<td><strong>arahattaṃ</strong></td>
+<td>enlightenment; awakened state</td>
+<td>觉悟；觉醒的状态</td>
+</tr>
+<tr>
+<td><strong>pāpunituṃ</strong></td>
+<td>to reach; to arrive (at); to attain;</td>
+<td>证得，达到</td>
+</tr>
+<tr>
+<td><strong>viriyaṃ</strong></td>
+<td>effort; energy</td>
+<td>精力</td>
+</tr>
+<tr>
+<td><strong>ārabhiṃsu</strong></td>
+<td>began (to); started (to)</td>
+<td>开始</td>
+</tr>
+</tbody>
+</table>
 <p>2.The Buddha expounded the doctrine for getting rid of lust, anger and delusion.<br />
 佛陀阐述了断除贪、嗔、痴的教义。<br />
 <strong>2.Buddho rāgassa dosassa mohassa pahānāya dhammaṃ desesi.</strong></p>
@@ -753,6 +789,14 @@
             <content:encoded><![CDATA[<img src="/_resources/14a03fa296274e19a0dbd8646b5fdda7.png" /><br />
 点击下载：<br />
 <a type="application/pdf" href="/_resources/4b3c51ff25d5403c8cb16a491b7205d8.pdf">ENJOYING-Pali.pdf</a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Pali Sandhi rules 巴利连音规则]]></title>
+            <guid>2c7ce22e60734bb0b697925b83434832</guid>
+            <pubDate>Sat, 23 Dec 2023 03:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[<p>Pali Sandhi refers to the phonological rules in the Pali language, which is an ancient Indian language closely related to Sanskrit. Sandhi rules govern the changes that occur when two words come together in a sentence. These changes can involve the merging, deletion, or modification of sounds  at the word boundaries. Pali Sandhi is important for understanding the correct pronunciation and   interpretation of Pali texts. It is a topic of study in the field of Pali linguistics and is often taught in courses on Pali language and literature.</p>
+<p>巴利语变音（Pali Sandhi）是指巴利语的音韵规则，巴利语是古印度语。与梵文密切相关的语言。连读规则控制着两个词出现时发生的变化一起造句。这些更改可能涉及声音的合并、删除或修改在单词边界处。巴利语连读对于理解正确的发音和理解非常重要。巴利文经典的解释。它是巴利语言学领域的一个研究课题，并且经常被教授巴利语言和文学课程。</p>
+]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Pali Lesson 17 Locative Case 第17课 位格]]></title>
