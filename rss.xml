@@ -4,7 +4,7 @@
         <title></title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 06:50:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 07:07:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>Joplin Pages Publisher</generator>
         <item>
@@ -93,7 +93,7 @@
             <title><![CDATA[Pali Lesson 18 Neuter Nouns 中性名词]]></title>
             <guid>2421d967c1844325b00f9c64f07da035</guid>
             <pubDate>Thu, 28 Dec 2023 06:42:24 GMT</pubDate>
-            <content:encoded><![CDATA[<nav class="table-of-contents"><ul><li><a href="#pali-lesson-18-netuer-nouns-中性名词">Pali Lesson 18 Netuer Nouns 中性名词</a><ul><li><a href="#vocabulary-词汇">Vocabulary 词汇</a><ul><li><a href="#masculine-nouns-阳性名词">Masculine Nouns 阳性名词</a></li><li><a href="#neuter-nouns-中性名词">Neuter Nouns  中性名词</a></li><li><a href="#adjectives-形容词">Adjectives 形容词</a></li><li><a href="#indeclinables-and-adverbs-不定式和副词">Indeclinables and Adverbs 不定式和副词</a></li><li><a href="#verbs-动词">Verbs 动词</a></li></ul></li><li><a href="#exercises-练习">Exercises 练习</a><ul><li><a href="#a-translate-into-english巴译英">(a) Translate into English:（巴译英）</a></li><li><a href="#b-translate-into-pali-英译巴">(b) Translate into Pali: (英译巴)</a></li></ul></li></ul></li></ul></nav><p>发音和记忆是相辅相成的<br />
+            <content:encoded><![CDATA[<nav class="table-of-contents"><ul><li><a href="#pali-lesson-18-netuer-nouns-中性名词">Pali Lesson 18 Netuer Nouns 中性名词</a><ul><li><a href="#vocabulary-词汇">Vocabulary 词汇</a><ul><li><a href="#masculine-nouns-阳性名词">Masculine Nouns 阳性名词</a></li><li><a href="#neuter-nouns-中性名词">Neuter Nouns  中性名词</a></li><li><a href="#adjectives-形容词">Adjectives 形容词</a></li><li><a href="#indeclinables-and-adverbs-不定式和副词">Indeclinables and Adverbs 不定式和副词</a></li><li><a href="#verbs-动词">Verbs 动词</a></li></ul></li><li><a href="#exercises-练习">Exercises 练习</a><ul><li><a href="#a-translate-into-english巴译英">(a) Translate into English（巴译英）</a></li><li><a href="#b-translate-into-pali-英译巴">(b) Translate into Pali (英译巴)</a></li></ul></li></ul></li></ul></nav><p>发音和记忆是相辅相成的<br />
 先背过，然后再学语法，那些词汇就已经熟悉于心<br />
 不是仅仅理解就可以，你需要一遍又一遍地背诵。</p>
 <p>Sandhī 不需要思考太多，只需要每天背诵。<br />
@@ -736,7 +736,7 @@
 </tbody>
 </table>
 <h2 id="exercises-练习">Exercises 练习</h2>
-<h3 id="a-translate-into-english巴译英">(a) Translate into English:（巴译英）</h3>
+<h3 id="a-translate-into-english巴译英">(a) Translate into English（巴译英）</h3>
 <p><strong>1.Brāhmaṇo uṭṭhāyāsanā uttarāsaṅgaṃ ekaṃsaṃ karitvā daharānaṃ bhikkhūnaṃ pāde vandi.</strong><br />
 1.The Brahmin, got up from (his) seat, put on one shoulder (his) upper robe and bowed down at the feet of young monks.<br />
 1.婆罗门从座起，偏袒上衣于一肩，顶礼于年轻比丘脚下。</p>
@@ -1197,7 +1197,7 @@
 </table>
 <p><strong>13.Bhikkhū paññattesu āsanesu nisīdiṃsu.</strong><br />
 13.The monks sat down on the prepared seats.<br />
-13.我所在的僧人坐在已经准备好的座位上。</p>
+13.比库们在准备好的座位上坐下</p>
 <table>
 <thead>
 <tr>
@@ -1214,24 +1214,24 @@
 </tr>
 <tr>
 <td><strong>paññattesu</strong></td>
-<td></td>
-<td></td>
+<td>？</td>
+<td>？</td>
 </tr>
 <tr>
 <td><strong>āsanesu</strong></td>
-<td></td>
-<td></td>
+<td>seat; chair</td>
+<td>座位；椅子</td>
 </tr>
 <tr>
 <td><strong>nisīdiṃsu</strong></td>
-<td></td>
-<td></td>
+<td>sat (on); sat down (in)</td>
+<td>坐在..上</td>
 </tr>
 </tbody>
 </table>
 <p><strong>14.Akusalaṃ bhikkhave pajahatha, sakkā bhikkhave akusalaṃ pajahituṃ.</strong><br />
 14.Dispel, Monks, evil. It can be dispelled, O monks.<br />
-14.僧侣们，驱除邪恶。诸比丘，它可以被驱散。</p>
+14.比库们！驱除邪恶。诸比库，它可以被驱除。</p>
 <table>
 <thead>
 <tr>
@@ -1243,38 +1243,28 @@
 <tbody>
 <tr>
 <td><strong>Akusalaṃ</strong></td>
-<td></td>
-<td></td>
+<td>unwholesome</td>
+<td>不善</td>
 </tr>
 <tr>
 <td><strong>bhikkhave</strong></td>
-<td></td>
-<td></td>
+<td>O, monks</td>
+<td>比库们（呼格，称呼）</td>
 </tr>
 <tr>
-<td><strong>pajahatha,</strong></td>
-<td></td>
-<td></td>
+<td><strong>pajahatha</strong></td>
+<td>gives up; abandons; lets go (of)</td>
+<td>放弃；舍弃</td>
 </tr>
 <tr>
 <td><strong>sakkā</strong></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>bhikkhave</strong></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td><strong>akusalaṃ</strong></td>
-<td></td>
-<td></td>
+<td>it is possible</td>
+<td>那是可能的</td>
 </tr>
 <tr>
 <td><strong>pajahituṃ</strong></td>
-<td></td>
-<td></td>
+<td>gives up; abandons; lets go (of)</td>
+<td>放弃；舍弃</td>
 </tr>
 </tbody>
 </table>
@@ -1292,8 +1282,8 @@
 <tbody>
 <tr>
 <td><strong>Cakkhūni</strong></td>
-<td></td>
-<td></td>
+<td>eye</td>
+<td>眼睛</td>
 </tr>
 <tr>
 <td><strong>hāyanti</strong></td>
@@ -1302,12 +1292,12 @@
 </tr>
 <tr>
 <td><strong>mamāyitāni</strong></td>
-<td></td>
-<td></td>
+<td>taken as mine; possessed; treasured; cherished</td>
+<td>视为自己的</td>
 </tr>
 </tbody>
 </table>
-<h3 id="b-translate-into-pali-英译巴">(b) Translate into Pali: (英译巴)</h3>
+<h3 id="b-translate-into-pali-英译巴">(b) Translate into Pali (英译巴)</h3>
 <p>1.Monks made an attempt to attain Arhatship.<br />
 1.僧侣们试图证得阿拉汉果。<br />
 <strong>1.Bhikkhū arahattaṃ pāpunituṃ viriyaṃ ārabhiṃsu.</strong></p>
