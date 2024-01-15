@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Study and Share | 学习与分享</title>
+    <link>https://xiaokui233.top/</link>
+    <description>Recent content on Study and Share | 学习与分享</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://xiaokui233.top/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://xiaokui233.top/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://xiaokui233.top/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://xiaokui233.top/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://xiaokui233.top/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:&#xA;https://github.com/yuin/goldmark https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&#xA;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://xiaokui233.top/contact/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://xiaokui233.top/contact/</guid>
+      <description> github.com/arisskz6 </description>
+    </item>
+    <item>
+      <title>Pali Lesson 18 Neuter Nouns 中性名词</title>
+      <link>https://xiaokui233.top/post/itbmu/diploma-second-sempter/pali/pali-lesson-18-neuter-nouns-%E4%B8%AD%E6%80%A7%E5%90%8D%E8%AF%8D/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xiaokui233.top/post/itbmu/diploma-second-sempter/pali/pali-lesson-18-neuter-nouns-%E4%B8%AD%E6%80%A7%E5%90%8D%E8%AF%8D/</guid>
+      <description>[toc] 发音和记忆是相辅相成的 先背过，然后再学语法，那些词汇就已经熟悉于心 不是仅仅理解就可以，你需要一遍又一遍地背诵。 Sandhī 不需要思考太多，只需要每天背诵。 不需要思考，only follow your pronouncation. Everyday you recite sandhis from begin to the end.</description>
+    </item>
+    <item>
+      <title>Pali Lesson 19  Feminine Nouns 阴性名词</title>
+      <link>https://xiaokui233.top/post/itbmu/diploma-second-sempter/pali/pali-lesson-19-feminine-nouns-%E9%98%B4%E6%80%A7%E5%90%8D%E8%AF%8D/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://xiaokui233.top/post/itbmu/diploma-second-sempter/pali/pali-lesson-19-feminine-nouns-%E9%98%B4%E6%80%A7%E5%90%8D%E8%AF%8D/</guid>
+      <description>[toc] 67.Feminine noun-stems end in ā, i, ī, u, and ū. Examples: kaññā (girl), ratti (night), nadī (river), yāgu (gruel), vadhū (woman). 67.阴性名词词干以 ā、i、ī、u 和 ū 结尾。例如：kaññā（女孩）、ratti（夜晚）、nadī（河流）、yāgu（幼虫</description>
+    </item>
+  </channel>
+</rss>
